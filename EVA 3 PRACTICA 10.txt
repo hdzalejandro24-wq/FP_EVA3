@@ -1,0 +1,27 @@
+Microsoft Windows [Versión 10.0.26100.6584]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\carpi>cd..
+
+C:\Users>cd..
+
+C:\>cd practicas
+
+C:\practicas>dir
+ El volumen de la unidad C es OS
+ El número de serie del volumen es: 7E59-7B92
+
+ Directorio de C:\practicas
+
+11/24/2025  10:35 PM    <DIR>          .
+11/24/2025  11:12 PM               186 Prueba.class
+11/24/2025  11:36 PM               114 Prueba.java
+               2 archivos            300 bytes
+               1 dirs  817,260,257,280 bytes libres
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>java Prueba
+Hola mundo
+
+C:\practicas>
